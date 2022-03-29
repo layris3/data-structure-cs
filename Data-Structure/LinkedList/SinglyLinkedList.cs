@@ -5,6 +5,10 @@ namespace Data_Structure
     public class SinglyLinkedList<T>
     {
         public SinglyListNode<T> Head { get; set; }
+        public SinglyLinkedList(SinglyListNode<T> head)
+        {
+            this.Head = head;
+        }
     }
 
     public class SinglyListNode<T>

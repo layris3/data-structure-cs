@@ -1,0 +1,12 @@
+D:\myApp\data-structure-cs\Data-Structure\bin\Debug\net5.0\Data-Structure.deps.json
+D:\myApp\data-structure-cs\Data-Structure\bin\Debug\net5.0\Data-Structure.dll
+D:\myApp\data-structure-cs\Data-Structure\bin\Debug\net5.0\ref\Data-Structure.dll
+D:\myApp\data-structure-cs\Data-Structure\bin\Debug\net5.0\Data-Structure.pdb
+D:\myApp\data-structure-cs\Data-Structure\obj\Debug\net5.0\Data-Structure.csproj.AssemblyReference.cache
+D:\myApp\data-structure-cs\Data-Structure\obj\Debug\net5.0\Data-Structure.GeneratedMSBuildEditorConfig.editorconfig
+D:\myApp\data-structure-cs\Data-Structure\obj\Debug\net5.0\Data-Structure.AssemblyInfoInputs.cache
+D:\myApp\data-structure-cs\Data-Structure\obj\Debug\net5.0\Data-Structure.AssemblyInfo.cs
+D:\myApp\data-structure-cs\Data-Structure\obj\Debug\net5.0\Data-Structure.csproj.CoreCompileInputs.cache
+D:\myApp\data-structure-cs\Data-Structure\obj\Debug\net5.0\Data-Structure.dll
+D:\myApp\data-structure-cs\Data-Structure\obj\Debug\net5.0\ref\Data-Structure.dll
+D:\myApp\data-structure-cs\Data-Structure\obj\Debug\net5.0\Data-Structure.pdb
