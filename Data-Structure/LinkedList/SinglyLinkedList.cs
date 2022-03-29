@@ -9,6 +9,12 @@ namespace Data_Structure
         {
             this.Head = head;
         }
+
+        public void ChangeHead(SinglyListNode<T> node)
+        {
+            node.Next = this.Head;
+            this.Head = node;
+        }
     }
 
     public class SinglyListNode<T>
