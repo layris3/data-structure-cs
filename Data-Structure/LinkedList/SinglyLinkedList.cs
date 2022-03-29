@@ -15,6 +15,20 @@ namespace Data_Structure
             node.Next = this.Head;
             this.Head = node;
         }
+
+        public void DeleteNode(SinglyListNode<T> target)
+        {
+            var prev = Head;
+            var node = Head;
+            while (node != target && node.Next != null)
+            {
+                prev = node;
+                node = node.Next;
+            }
+
+            prev.Next = node.Next;
+        }
+
     }
 
     public class SinglyListNode<T>
